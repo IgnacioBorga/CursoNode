@@ -1,0 +1,12 @@
+Practica nodeJS:
+  - REPL
+  - Modulos:
+      - Timers
+      - Archivos
+      - JSON
+      - Emitters
+      - Funciones Callback
+      - Async/Await
+  - Protocolo HTTP
+  - Estructura URL
+  - Routing
