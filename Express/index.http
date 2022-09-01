@@ -1,0 +1,37 @@
+POST HTTP://localhost:3000/api/cursos/matematica
+Content-Type: application/json
+
+{
+    "id": 3,
+    "titulo": "Aprende calculo 2",
+    "tema": "calculo",
+    "vistas": 5222,
+    "nivel": "avanzado"
+}
+
+###
+
+PUT HTTP://localhost:3000/api/cursos/matematica/3
+Content-Type: application/json
+
+{
+    "id": 3,
+    "titulo": "Aprende calculo 2",
+    "tema": "calculo",
+    "vistas": 1355,
+    "nivel": "intermedio"
+}
+
+###
+
+PATCH HTTP://localhost:3000/api/cursos/matematica/3
+Content-Type: application/json
+
+{
+    "vistas": 13255,
+    "nivel": "avanzado"
+}
+
+###
+
+DELETE HTTP://localhost:3000/api/cursos/matematica/1 HTTP/1.1
