@@ -1,2 +1,2 @@
 # CursoNode
-Curso de NodeJS y Express, freeCodeCamp.
+Curso de NodeJS y Express de freeCodeCamp.
