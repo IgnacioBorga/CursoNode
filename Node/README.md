@@ -1,4 +1,4 @@
-Practica nodeJS:
+Practica NodeJS:
   - REPL
   - Modulos:
       - Timers
